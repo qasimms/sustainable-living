@@ -1,0 +1,16 @@
+body{
+	background: #E3F1F2;
+	font-family:Monaco ;
+
+}
+#links ul{
+	float: right;
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+#links{
+	overflow: auto;
+}
